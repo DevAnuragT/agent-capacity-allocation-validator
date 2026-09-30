@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: capacity-allocation-validator
+version: 0.1.0
+description: "Sums assignments by named resource and compares each total with its explicit capacity. It reports over-allocation evidence without rebalancing work."
+skills:
+  - capacity-allocation-validator-skill
+tools:
+  - audit-capacity-allocation-validator
+tags:
+  - "planning"
+  - evidence-driven
